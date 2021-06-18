@@ -10,10 +10,9 @@ Head on to https://replit.com/@SachinMehta/S-I-D-E and play the Repl !
   5) Click on 'Run' tab and click Run
   6) Voila ! You will get your output in the output console below !
 
-# Upcoming Updates
-1) Custom text font and color
-2) Homebrew Effect !
-3) Auto-complete code
+# Star Features !
+  1) Customise your test and background color by clicking on the 'Theme' tab
+  2) Select an amazing pre-built theme from the selection of built-in themes in the 'Theme' tab
 
 # To Do List
 1) Download all requirements using "pip" or "pip3" or "sudo apt-get" commands
