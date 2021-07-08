@@ -19,3 +19,10 @@ Head on to https://replit.com/@SachinMehta/S-I-D-E and play the Repl !
 2) Star this project
 3) Recommend and Share this to your friends !
 4) Enjoy !!
+
+# Demo
+Watch this demo to understand the working of S-I-D-E ......
+
+https://user-images.githubusercontent.com/80191820/124872517-ff137400-dfe2-11eb-8fd9-8c25ea751268.mov
+
+
