@@ -1,1 +1,1 @@
-web: gunnicorn gettingstarted.wsg
+web: gunicorn side.wsgi
