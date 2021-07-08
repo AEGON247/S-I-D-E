@@ -98,7 +98,6 @@ Pygments==2.9.0
 pyinstaller==4.3
 pyinstaller-hooks-contrib==2021.1
 pymunk==6.0.0
-pyobjc==7.3
 pyobjc-core==7.3
 pyobjc-framework-Accounts==7.3
 pyobjc-framework-AddressBook==7.3
