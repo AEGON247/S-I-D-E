@@ -1,1 +1,1 @@
-worker: python3 SIDE.py
+web: gunnicorn gettingstarted.wsg
